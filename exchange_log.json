@@ -1,0 +1,179 @@
+{
+  "timestamp": "2025-07-02T17:29:24.313516Z",
+  "data": [
+    {
+      "base": "COIN",
+      "asset": "EARTH",
+      "value": 0.001298627347024794,
+      "recommendation": "SELL"
+    },
+    {
+      "base": "COIN",
+      "asset": "WATER",
+      "value": 1.177705577021673,
+      "recommendation": "HOLD"
+    },
+    {
+      "base": "COIN",
+      "asset": "FIRE",
+      "value": 4.885175824309803,
+      "recommendation": "HOLD"
+    },
+    {
+      "base": "COIN",
+      "asset": "MUD",
+      "value": 0.004397628243976118,
+      "recommendation": "SELL"
+    },
+    {
+      "base": "COIN",
+      "asset": "CLAY",
+      "value": 0.034869892372866404,
+      "recommendation": "BUY"
+    },
+    {
+      "base": "COIN",
+      "asset": "SAND",
+      "value": 0.07448669235296643,
+      "recommendation": "BUY"
+    },
+    {
+      "base": "COIN",
+      "asset": "COPPER",
+      "value": 1.0668445796384052,
+      "recommendation": "BUY"
+    },
+    {
+      "base": "COIN",
+      "asset": "SEAWATER",
+      "value": 12.465245271735746,
+      "recommendation": "BUY"
+    },
+    {
+      "base": "COIN",
+      "asset": "HEAT",
+      "value": 39.29681506418286,
+      "recommendation": "BUY"
+    },
+    {
+      "base": "COIN",
+      "asset": "ALGAE",
+      "value": 52.04323886519536,
+      "recommendation": "HOLD"
+    },
+    {
+      "base": "COIN",
+      "asset": "LAVA",
+      "value": 30.560477602812306,
+      "recommendation": "BUY"
+    },
+    {
+      "base": "COIN",
+      "asset": "CERAMICS",
+      "value": 124.96632164929657,
+      "recommendation": "SELL"
+    },
+    {
+      "base": "COIN",
+      "asset": "STEEL",
+      "value": 31.627972108021275,
+      "recommendation": "SELL"
+    },
+    {
+      "base": "COIN",
+      "asset": "OXYGEN",
+      "value": 117.2325504348022,
+      "recommendation": "BUY"
+    },
+    {
+      "base": "COIN",
+      "asset": "GLASS",
+      "value": 135.19030690924598,
+      "recommendation": "BUY"
+    },
+    {
+      "base": "COIN",
+      "asset": "GAS",
+      "value": 372.7385265598957,
+      "recommendation": "SELL"
+    },
+    {
+      "base": "COIN",
+      "asset": "STONE",
+      "value": 340.6719295030333,
+      "recommendation": "SELL"
+    },
+    {
+      "base": "COIN",
+      "asset": "STEAM",
+      "value": 339.808316660959,
+      "recommendation": "HOLD"
+    },
+    {
+      "base": "COIN",
+      "asset": "SCREWS",
+      "value": 187.76486895065912,
+      "recommendation": "SELL"
+    },
+    {
+      "base": "COIN",
+      "asset": "FUEL",
+      "value": 1310.8692212028873,
+      "recommendation": "SELL"
+    },
+    {
+      "base": "COIN",
+      "asset": "CEMENT",
+      "value": 3441.76274452192,
+      "recommendation": "SELL"
+    },
+    {
+      "base": "COIN",
+      "asset": "OIL",
+      "value": 3825.6510564643622,
+      "recommendation": "HOLD"
+    },
+    {
+      "base": "COIN",
+      "asset": "ACID",
+      "value": 5040.687029721344,
+      "recommendation": "SELL"
+    },
+    {
+      "base": "COIN",
+      "asset": "SULFUR",
+      "value": 1281.367909110694,
+      "recommendation": "SELL"
+    },
+    {
+      "base": "COIN",
+      "asset": "PLASTICS",
+      "value": 32815.38259810499,
+      "recommendation": "SELL"
+    },
+    {
+      "base": "COIN",
+      "asset": "FIBERGLASS",
+      "value": 3793.7206176544423,
+      "recommendation": "HOLD"
+    },
+    {
+      "base": "COIN",
+      "asset": "ENERGY",
+      "value": 14438.921211425031,
+      "recommendation": "SELL"
+    },
+    {
+      "base": "COIN",
+      "asset": "HYDROGEN",
+      "value": 40351.97307593578,
+      "recommendation": "SELL"
+    },
+    {
+      "base": "COIN",
+      "asset": "DYNAMITE",
+      "value": 58804.785047769394,
+      "recommendation": "BUY"
+    }
+  ]
+}
